@@ -20,7 +20,7 @@
   </a>
 </p>
 
-<h1>Software We Use</h1>
+<h1 align="center">Software We Use</h1>
 <p align="center">
   <img src="https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B" />
   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" />
