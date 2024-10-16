@@ -1,6 +1,11 @@
 <div align="center">
   <h1>Welcome to ScreenCrow Studios</h1>
 </div>
+
+<div align="center">
+  <img src='https://github.com/user-attachments/assets/dd92bf9b-7058-44f4-83b6-8ca089342c8c' width='256'/>
+</div>
+
 <p>
   <b>ScreenCrow</b> is a small, Indie Game Studio and Publisher with people from all around the globe. ScreenCrow Studios was founded in 2023 and it's goal is to create games for people to enjoy, and have fun doing it! Our small team is responsible for <b>Developing</b>, <b>Publishing</b> and <b>Marketing</b> our games.
 </p>
